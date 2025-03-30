@@ -1,0 +1,19 @@
+
+body {
+    background-color: black; /* Puedes cambiarlo a cualquier color */
+    color: white; /* Cambia el color del texto para que sea visible */
+    text-align: center; /* Centra el texto */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: yellow;
+}
+
+p {
+    color: lightblue;
+}
